@@ -14,16 +14,16 @@ Before you can run this bot, you need to set up a Telegram bot and obtain an Ope
 
 1. Clone this repository or download the code.
 2. Create a virtual environment (optional but recommended):
-   1. python -m venv venv
-   2. .\venv\Scripts\activate - for windows
-   2. source venv/bin/activate - for unix
+    # python -m venv venv
+    # .\venv\Scripts\activate - for windows
+    # source venv/bin/activate - for unix
 3. Install the required Python packages using pip:
-   pip install -r requirements.txt
+   # pip install -r requirements.txt
 4. Create a .env file in the project directory and set your environment variables:
-   bot_token = your_telegram_bot_token_here
-   api_key = your_openweathermap_api_key_here
+   # bot_token = your_telegram_bot_token_here
+   # api_key = your_openweathermap_api_key_here
 5. Run the bot with the following command:
-   python your_bot_script_name.py
+   # python your_bot_script_name.py
 
 ####
 
