@@ -14,9 +14,9 @@ Before you can run this bot, you need to set up a Telegram bot and obtain an Ope
 
 1. Clone this repository or download the code.
 2. Create a virtual environment (optional but recommended):
-   1. python -m venv venv
-   2. .\venv\Scripts\activate - for windows
-   2. source venv/bin/activate - for unix
+    python -m venv venv
+    .\venv\Scripts\activate - for windows
+    source venv/bin/activate - for unix
 3. Install the required Python packages using pip:
    pip install -r requirements.txt
 4. Create a .env file in the project directory and set your environment variables:
